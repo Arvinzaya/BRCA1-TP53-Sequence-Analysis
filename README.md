@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses Python to perform a basic comparative analysis of BRCA1 and TP53 DNA sequences.
+This project compares the nucleotide sequences of the human BRCA1 and TP53 genes using Python. The analysis examines sequence length and nucleotide composition, including GC% and AT%, to demonstrate basic computational analysis of biological sequence data.
 
 The analysis focuses on:
 
